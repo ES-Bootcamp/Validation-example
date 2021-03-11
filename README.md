@@ -1,3 +1,4 @@
-#Validation-example
- A Simple form validation example using PHP sessions
+# Validation-example
+
+A Simple form validation example using PHP sessions
  
